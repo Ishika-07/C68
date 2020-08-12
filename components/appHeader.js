@@ -14,6 +14,7 @@ centerComponent={{
     color:'white',
     marginLeft:200,
     marginRight:200,
+    marginTop:10
   }
 }}/>
 );
